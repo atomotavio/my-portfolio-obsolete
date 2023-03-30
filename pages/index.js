@@ -118,7 +118,7 @@ export default function Home() {
           <p className='italic'>Avançado</p>
         </div>
       </section>
-      <Link legacyBehavior href="https://drive.google.com/file/d/1VQZIMV3w3qoMDqjIStLAGaeHTxGWxgZu/view?usp=share_link"><button className='mt-3 rounded-full px-2 mr-2 hover:bg-yellow-500 bg-yellow-300 text-slate-900'>Baixar cúrriculo</button></Link>
+      <Link legacyBehavior href="https://drive.google.com/file/d/1VmWwNNKDZdJ89DL4DTykWn35KZg2PDi6/view?usp=share_link"><button className='mt-3 rounded-full px-2 mr-2 hover:bg-yellow-500 bg-yellow-300 text-slate-900'>Baixar cúrriculo</button></Link>
     </>
   )
 }
