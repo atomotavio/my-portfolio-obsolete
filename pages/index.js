@@ -12,15 +12,17 @@ export default function Home() {
       </Head>
       <section className='mb-4'>
         <h1 className='font-bold tracking-wide text-yellow-500'>Otávio Trindade</h1>
-        <h2 className=''>Fullstack Javascript Júnior Developer</h2>
+        <h2 className=''>PHP Developer</h2>
       </section>
       <section className='mb-4'>
         <h2 className='font-bold tracking-wide text-yellow-500'>Skills</h2>
         <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">PHP</button>
+        <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">Laravel</button>
+        <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">PHPUnit</button>
+        <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">Composer</button>
         <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">MySQL</button>
-        <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">Java</button>
+        <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">MariaDB</button>
         <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">Javascript</button>
-        <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">Typescript</button>
         <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">HTML5</button>
         <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">CSS</button>
         <button className="rounded-full px-2 mr-2 mt-2 bg-yellow-300 text-slate-900 cursor-default">C#</button>

@@ -19,7 +19,7 @@ export default function Maincontainer({ children }) {
                             <li><Link href="/faq">F.A.Q.</Link></li>
                         </ul>
                         <ul className='mt-4 text-center'>
-                            <li><Link href="https://www.linkedin.com/in/atomotavio/" legacyBehavior><a target="_blank">Linkedin</a></Link></li>
+                            <li><Link href="https://www.linkedin.com/in/otaviotrindade/" legacyBehavior><a target="_blank">Linkedin</a></Link></li>
                             <li><Link href="https://github.com/atomotavio" legacyBehavior><a target="_blank">Github</a></Link></li>
                             <li><Link href="https://dev.to/atomotavio" legacyBehavior><a target="_blank">Artigos</a></Link></li>
                             <li><Link href="https://www.youtube.com/@atomotavio" legacyBehavior><a target="_blank">Youtube</a></Link></li>
